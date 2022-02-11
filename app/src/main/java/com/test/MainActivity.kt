@@ -23,6 +23,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     companion object {
-        private const val TAG = "PoC_AME"
+        private const val TAG = "PoC_AME_LOG"
     }
 }
