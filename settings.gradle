@@ -1,0 +1,4 @@
+rootProject.name = "PoC_AME_java_default_method"
+include ':app'
+include ':interfaceLib'
+include ':implementationLib'
