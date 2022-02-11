@@ -1,4 +1,4 @@
-# PoC_AME_java_default_method
+# `AbstractMethodError` when use java 8 default interface methods and implementation in different libs
 Proof of concept `AbstractMethodError` when use java 8 default interface methods and implementation in different libs
 
 ![image info](./doc/schema.png)
