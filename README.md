@@ -1,3 +1,5 @@
+upd: описанные ниже проблемы с библиотеками исчезают если правильно прописать для библиотек их зависимости в pom файле
+
 # `AbstractMethodError` when use java 8 default interface methods and implementation in different libs
 Proof of concept `AbstractMethodError` when use java 8 default interface methods and implementation in different libs
 
